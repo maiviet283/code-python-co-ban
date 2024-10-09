@@ -1,0 +1,6 @@
+mai quoc viet	20	nam	ha tinh
+tran thi hoai nam	20	nu	ha tinh
+nguyen tuan anh	21	nam	ky tay
+thieu thi loan	21	nu	ky khang
+vo thi kim anh	21	nu	ky khang
+tran thi nhat le	20	nu	ky dong

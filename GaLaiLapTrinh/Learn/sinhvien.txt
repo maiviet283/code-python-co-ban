@@ -1,0 +1,7 @@
+101	viet	12b1	hatinh
+102	namm	12b1	hatinh
+103	tanh	12b1	hatinh
+104	loan	12b1	hatinh
+105	lele	11b1	hatinh
+111	viet	10b1	ky anh
+1012	viet mau	12	ky kahng

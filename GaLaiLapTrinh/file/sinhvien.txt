@@ -1,0 +1,4 @@
+01	viet	12b1	ht
+02	namm	12b1	ht
+03	niem	12b1	htt
+04	hnam	12b1	ht

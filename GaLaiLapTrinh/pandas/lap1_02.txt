@@ -1,0 +1,3 @@
+123	viet	20	hatinh
+anh	anh	21	kytay
+123	viet mau	20	ha tinh
